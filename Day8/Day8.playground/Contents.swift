@@ -28,7 +28,7 @@ struct Sport2 {
 
 let chessBoxing = Sport2(name: "Chessboxing", isOlympicSport: false)
 print(chessBoxing.olympicStatus)
-
+//s
 // Property observers
 
 struct Progress {
